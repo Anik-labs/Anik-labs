@@ -28,7 +28,7 @@ I love clean architecture, reusable components, and writing code that looks good
 ## 🚀 Skills & Technologies
 
 ### **Frontend**
-- JavaScript (ES6+), React, SCSS, Webpack, Tailwind  
+- JavaScript (ES6+), TypeScript, React, Redux, Next.js, SCSS, Tailwind
 - UI/UX Engineering, Component-based Architecture  
 
 ### **WordPress & Backend**
@@ -37,8 +37,8 @@ I love clean architecture, reusable components, and writing code that looks good
 - PHP, WP REST API  
 - WooCommerce Customization  
 
-### **Tools**
-- Git, VS Code, NPM/Yarn, Figma  
+### **Tools & Others**
+- Git, VS Code, NPM/Yarn, Figma, Webpack  
 - Browser DevTools  
 - Postman, Thunder Client  
 
